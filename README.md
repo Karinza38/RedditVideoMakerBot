@@ -1,4 +1,4 @@
-# Reddit Video Maker Bot 🎥
+Reddit Video Maker Bot 🎥
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
 
